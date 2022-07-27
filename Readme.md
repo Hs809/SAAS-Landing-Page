@@ -10,7 +10,7 @@ I have build this SAAS Template with my core HTML CSS skills
 
 ![image](./images/created.png)
 
-You can check out here: [SAAS  By Hitesh](https://justice-by-hitesh.netlify.app/)
+You can check out here: [SAAS  By Hitesh](https://saas-landing-page-by-hitesh.netlify.app/)
 
 
 
@@ -25,7 +25,7 @@ You can check out here: [SAAS  By Hitesh](https://justice-by-hitesh.netlify.app/
 
 ![image](./images/approach.png)
 
-## This project took me around 2 hours approximately.
+## This project took me around 3 hours approximately.
 
 ### Connect with me 
 [Twitter](https://twitter.com/HiteshP25522550) 
